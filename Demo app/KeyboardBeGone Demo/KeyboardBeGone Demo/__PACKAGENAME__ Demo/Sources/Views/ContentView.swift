@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  __PACKAGENAME__ Demo
+//  KeyboardBeGone Demo
 //
 //  Created by Pax Willoughby on 4/17/26.
 //

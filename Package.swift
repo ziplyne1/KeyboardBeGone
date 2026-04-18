@@ -4,23 +4,23 @@
 import PackageDescription
 
 let package = Package(
-    name: "__PACKAGENAME__",
+    name: "KeyboardBeGone",
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
-            name: "__PACKAGENAME__",
-            targets: ["__PACKAGENAME__"]
+            name: "KeyboardBeGone",
+            targets: ["KeyboardBeGone"]
         ),
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
         // Targets can depend on other targets in this package and products from dependencies.
         .target(
-            name: "__PACKAGENAME__"
+            name: "KeyboardBeGone"
         ),
         .testTarget(
-            name: "__PACKAGENAME__Tests",
-            dependencies: ["__PACKAGENAME__"]
+            name: "KeyboardBeGoneTests",
+            dependencies: ["KeyboardBeGone"]
         ),
     ],
     swiftLanguageModes: [.v6]

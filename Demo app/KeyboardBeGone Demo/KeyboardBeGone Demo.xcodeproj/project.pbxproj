@@ -12,27 +12,27 @@
 			containerPortal = 53E1626E2F93500B003CB08B /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 53E162752F93500B003CB08B;
-			remoteInfo = "__PACKAGENAME__ Demo";
+			remoteInfo = "KeyboardBeGone Demo";
 		};
 		53E1628E2F93500C003CB08B /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 53E1626E2F93500B003CB08B /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 53E162752F93500B003CB08B;
-			remoteInfo = "__PACKAGENAME__ Demo";
+			remoteInfo = "KeyboardBeGone Demo";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		53E162762F93500B003CB08B /* __PACKAGENAME__ Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "__PACKAGENAME__ Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		53E162832F93500C003CB08B /* __PACKAGENAME__ DemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "__PACKAGENAME__ DemoTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		53E1628D2F93500C003CB08B /* __PACKAGENAME__ DemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "__PACKAGENAME__ DemoUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		53E162762F93500B003CB08B /* KeyboardBeGone Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "KeyboardBeGone Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		53E162832F93500C003CB08B /* KeyboardBeGone DemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "KeyboardBeGone DemoTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		53E1628D2F93500C003CB08B /* KeyboardBeGone DemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "KeyboardBeGone DemoUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		53E162782F93500B003CB08B /* __PACKAGENAME__ Demo */ = {
+		53E162782F93500B003CB08B /* KeyboardBeGone Demo */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "__PACKAGENAME__ Demo";
+			path = "KeyboardBeGone Demo";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -65,7 +65,7 @@
 		53E1626D2F93500B003CB08B = {
 			isa = PBXGroup;
 			children = (
-				53E162782F93500B003CB08B /* __PACKAGENAME__ Demo */,
+				53E162782F93500B003CB08B /* KeyboardBeGone Demo */,
 				53E162772F93500B003CB08B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -73,9 +73,9 @@
 		53E162772F93500B003CB08B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				53E162762F93500B003CB08B /* __PACKAGENAME__ Demo.app */,
-				53E162832F93500C003CB08B /* __PACKAGENAME__ DemoTests.xctest */,
-				53E1628D2F93500C003CB08B /* __PACKAGENAME__ DemoUITests.xctest */,
+				53E162762F93500B003CB08B /* KeyboardBeGone Demo.app */,
+				53E162832F93500C003CB08B /* KeyboardBeGone DemoTests.xctest */,
+				53E1628D2F93500C003CB08B /* KeyboardBeGone DemoUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -83,9 +83,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		53E162752F93500B003CB08B /* __PACKAGENAME__ Demo */ = {
+		53E162752F93500B003CB08B /* KeyboardBeGone Demo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 53E162972F93500C003CB08B /* Build configuration list for PBXNativeTarget "__PACKAGENAME__ Demo" */;
+			buildConfigurationList = 53E162972F93500C003CB08B /* Build configuration list for PBXNativeTarget "KeyboardBeGone Demo" */;
 			buildPhases = (
 				53E162722F93500B003CB08B /* Sources */,
 				53E162732F93500B003CB08B /* Frameworks */,
@@ -96,18 +96,18 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				53E162782F93500B003CB08B /* __PACKAGENAME__ Demo */,
+				53E162782F93500B003CB08B /* KeyboardBeGone Demo */,
 			);
-			name = "__PACKAGENAME__ Demo";
+			name = "KeyboardBeGone Demo";
 			packageProductDependencies = (
 			);
-			productName = "__PACKAGENAME__ Demo";
-			productReference = 53E162762F93500B003CB08B /* __PACKAGENAME__ Demo.app */;
+			productName = "KeyboardBeGone Demo";
+			productReference = 53E162762F93500B003CB08B /* KeyboardBeGone Demo.app */;
 			productType = "com.apple.product-type.application";
 		};
-		53E162822F93500C003CB08B /* __PACKAGENAME__ DemoTests */ = {
+		53E162822F93500C003CB08B /* KeyboardBeGone DemoTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 53E1629A2F93500C003CB08B /* Build configuration list for PBXNativeTarget "__PACKAGENAME__ DemoTests" */;
+			buildConfigurationList = 53E1629A2F93500C003CB08B /* Build configuration list for PBXNativeTarget "KeyboardBeGone DemoTests" */;
 			buildPhases = (
 				53E1627F2F93500C003CB08B /* Sources */,
 				53E162802F93500C003CB08B /* Frameworks */,
@@ -118,16 +118,16 @@
 			dependencies = (
 				53E162852F93500C003CB08B /* PBXTargetDependency */,
 			);
-			name = "__PACKAGENAME__ DemoTests";
+			name = "KeyboardBeGone DemoTests";
 			packageProductDependencies = (
 			);
-			productName = "__PACKAGENAME__ DemoTests";
-			productReference = 53E162832F93500C003CB08B /* __PACKAGENAME__ DemoTests.xctest */;
+			productName = "KeyboardBeGone DemoTests";
+			productReference = 53E162832F93500C003CB08B /* KeyboardBeGone DemoTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		53E1628C2F93500C003CB08B /* __PACKAGENAME__ DemoUITests */ = {
+		53E1628C2F93500C003CB08B /* KeyboardBeGone DemoUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 53E1629D2F93500C003CB08B /* Build configuration list for PBXNativeTarget "__PACKAGENAME__ DemoUITests" */;
+			buildConfigurationList = 53E1629D2F93500C003CB08B /* Build configuration list for PBXNativeTarget "KeyboardBeGone DemoUITests" */;
 			buildPhases = (
 				53E162892F93500C003CB08B /* Sources */,
 				53E1628A2F93500C003CB08B /* Frameworks */,
@@ -138,11 +138,11 @@
 			dependencies = (
 				53E1628F2F93500C003CB08B /* PBXTargetDependency */,
 			);
-			name = "__PACKAGENAME__ DemoUITests";
+			name = "KeyboardBeGone DemoUITests";
 			packageProductDependencies = (
 			);
-			productName = "__PACKAGENAME__ DemoUITests";
-			productReference = 53E1628D2F93500C003CB08B /* __PACKAGENAME__ DemoUITests.xctest */;
+			productName = "KeyboardBeGone DemoUITests";
+			productReference = 53E1628D2F93500C003CB08B /* KeyboardBeGone DemoUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -168,7 +168,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 53E162712F93500B003CB08B /* Build configuration list for PBXProject "__PACKAGENAME__ Demo" */;
+			buildConfigurationList = 53E162712F93500B003CB08B /* Build configuration list for PBXProject "KeyboardBeGone Demo" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -182,9 +182,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				53E162752F93500B003CB08B /* __PACKAGENAME__ Demo */,
-				53E162822F93500C003CB08B /* __PACKAGENAME__ DemoTests */,
-				53E1628C2F93500C003CB08B /* __PACKAGENAME__ DemoUITests */,
+				53E162752F93500B003CB08B /* KeyboardBeGone Demo */,
+				53E162822F93500C003CB08B /* KeyboardBeGone DemoTests */,
+				53E1628C2F93500C003CB08B /* KeyboardBeGone DemoUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -240,12 +240,12 @@
 /* Begin PBXTargetDependency section */
 		53E162852F93500C003CB08B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 53E162752F93500B003CB08B /* __PACKAGENAME__ Demo */;
+			target = 53E162752F93500B003CB08B /* KeyboardBeGone Demo */;
 			targetProxy = 53E162842F93500C003CB08B /* PBXContainerItemProxy */;
 		};
 		53E1628F2F93500C003CB08B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 53E162752F93500B003CB08B /* __PACKAGENAME__ Demo */;
+			target = 53E162752F93500B003CB08B /* KeyboardBeGone Demo */;
 			targetProxy = 53E1628E2F93500C003CB08B /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -469,7 +469,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/__PACKAGENAME__ Demo.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/__PACKAGENAME__ Demo";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/KeyboardBeGone Demo.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/KeyboardBeGone Demo";
 				XROS_DEPLOYMENT_TARGET = 26.4;
 			};
 			name = Debug;
@@ -494,7 +494,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/__PACKAGENAME__ Demo.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/__PACKAGENAME__ Demo";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/KeyboardBeGone Demo.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/KeyboardBeGone Demo";
 				XROS_DEPLOYMENT_TARGET = 26.4;
 			};
 			name = Release;
@@ -518,7 +518,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_TARGET_NAME = "__PACKAGENAME__ Demo";
+				TEST_TARGET_NAME = "KeyboardBeGone Demo";
 				XROS_DEPLOYMENT_TARGET = 26.4;
 			};
 			name = Debug;
@@ -542,7 +542,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_TARGET_NAME = "__PACKAGENAME__ Demo";
+				TEST_TARGET_NAME = "KeyboardBeGone Demo";
 				XROS_DEPLOYMENT_TARGET = 26.4;
 			};
 			name = Release;
@@ -550,7 +550,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		53E162712F93500B003CB08B /* Build configuration list for PBXProject "__PACKAGENAME__ Demo" */ = {
+		53E162712F93500B003CB08B /* Build configuration list for PBXProject "KeyboardBeGone Demo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				53E162952F93500C003CB08B /* Debug */,
@@ -559,7 +559,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		53E162972F93500C003CB08B /* Build configuration list for PBXNativeTarget "__PACKAGENAME__ Demo" */ = {
+		53E162972F93500C003CB08B /* Build configuration list for PBXNativeTarget "KeyboardBeGone Demo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				53E162982F93500C003CB08B /* Debug */,
@@ -568,7 +568,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		53E1629A2F93500C003CB08B /* Build configuration list for PBXNativeTarget "__PACKAGENAME__ DemoTests" */ = {
+		53E1629A2F93500C003CB08B /* Build configuration list for PBXNativeTarget "KeyboardBeGone DemoTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				53E1629B2F93500C003CB08B /* Debug */,
@@ -577,7 +577,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		53E1629D2F93500C003CB08B /* Build configuration list for PBXNativeTarget "__PACKAGENAME__ DemoUITests" */ = {
+		53E1629D2F93500C003CB08B /* Build configuration list for PBXNativeTarget "KeyboardBeGone DemoUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				53E1629E2F93500C003CB08B /* Debug */,

@@ -3,23 +3,23 @@
 Run `setup_repository.sh`. (You may need to do `chmod +x`)  
 You can also use the JSON ruleset file there for GitHub.
 
-# __PACKAGENAME__
+# KeyboardBeGone
 A template for Swift packages.  
-Made with 💜 by [__USERNAME__](__PERSONALWEBSITE__).
+Made with 💜 by [ziplyne](https://ziplyne.dev).
 
-![A GIF showing off the demonstration app](__PERSONALWEBSITE__)
+![A GIF showing off the demonstration app](https://ziplyne.dev)
 
 ## Installation
-__PACKAGENAME__ is on the [Swift Package Index](https://swiftpackageindex.com/__GITHUBUSERNAME__/__PACKAGENAME__). Install it using the [Swift Package Manager](https://docs.swift.org/swiftpm/documentation/packagemanagerdocs/).
+KeyboardBeGone is on the [Swift Package Index](https://swiftpackageindex.com/ziplyne1/KeyboardBeGone). Install it using the [Swift Package Manager](https://docs.swift.org/swiftpm/documentation/packagemanagerdocs/).
 
 In Xcode, go to File → Add Package Dependencies…  
 Then, enter the following URL and select “Add Package.”
 ```
-https://github.com/__GITHUBUSERNAME__/__PACKAGENAME__
+https://github.com/ziplyne1/KeyboardBeGone
 ```
 
 ## Usage
-After importing __PACKAGENAME__, you can do lots of cool stuff with it:
+After importing KeyboardBeGone, you can do lots of cool stuff with it:
 1. Use case one
 2. Use case two
 
