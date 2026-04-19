@@ -1,8 +1,3 @@
-# Setup
-#### Look inside `Repo Setup - DELETEME`
-Run `setup_repository.sh`. (You may need to do `chmod +x`)  
-You can also use the JSON ruleset file there for GitHub.
-
 # KeyboardBeGone
 A template for Swift packages.  
 Made with 💜 by [ziplyne](https://ziplyne.dev).
