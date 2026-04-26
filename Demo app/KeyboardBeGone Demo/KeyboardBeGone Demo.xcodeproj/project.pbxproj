@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		53E162762F93500B003CB08B /* KeyboardBeGone Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "KeyboardBeGone Demo.app"; path = "KeyboardBeGone Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		53E162762F93500B003CB08B /* KeyboardBeGone Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "KeyboardBeGone Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
